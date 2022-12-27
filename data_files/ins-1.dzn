@@ -1,0 +1,6 @@
+circuit_heights=[3, 5, 3, 5];
+circuit_widths=[3, 3, 5, 5];
+max_height=16;
+min_height=8;
+n_circuits=4;
+plate_width=8;
